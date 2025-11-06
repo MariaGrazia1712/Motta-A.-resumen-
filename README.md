@@ -1,3 +1,6 @@
+# 📘 Población rural, crisis política y movilizaciones: género, etnicidad y clase en el Perú
+
+
 Este repositorio reúne materiales de análisis sobre las **movilizaciones sociales en el Perú (2022–2023)**, destacando el papel protagónico de las **mujeres rurales**, los **pueblos indígenas** y los **sectores populares**.  
 
 A través de un **enfoque interseccional** —género, etnicidad y clase— se examina cómo el **cuidado**, la **organización comunitaria** y la **resistencia frente a la represión estatal** redefinen la acción política en contextos de crisis.
