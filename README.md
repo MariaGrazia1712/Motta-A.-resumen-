@@ -5,6 +5,8 @@ Este repositorio reúne materiales de análisis sobre las **movilizaciones socia
 
 A través de un **enfoque interseccional** —género, etnicidad y clase— se examina cómo el **cuidado**, la **organización comunitaria** y la **resistencia frente a la represión estatal** redefinen la acción política en contextos de crisis.
 
+## <img src="https://github.com/MariaGrazia1712/Motta-A.-resumen-/blob/main/ellas-resisten.png">
+
 ---
 
 ### 📖 Referencia
